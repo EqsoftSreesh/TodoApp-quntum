@@ -12,6 +12,7 @@
 .swiftpm/
 migrate_working_dir/
 
+
 # IntelliJ related
 *.iml
 *.ipr
@@ -46,3 +47,9 @@ app.*.map.json
 
 # FVM Version Cache
 .fvm/
+
+# Backend sensitive files
+backend/serviceAccountKey.json
+backend/__pycache__/
+backend/*.pyc
+backend/.env
