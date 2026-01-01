@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684076780638",
+    "project_id": "quantum-todo-app",
+    "storage_bucket": "quantum-todo-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684076780638:android:407044a4b6c7871461b8cf",
+        "android_client_info": {
+          "package_name": "com.example.quantum_todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMTqu_KrG-ezRJGRVzU-esr2jK5iJcL64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
